@@ -1,0 +1,28 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "imageUrl": "https://picsum.photos/200",
+      "title": "Heloo World!",
+      "readingtime": 5
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://picsum.photos/200",
+      "title": "Heloo World2!",
+      "readingtime": 4
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://picsum.photos/200",
+      "title": "Heloo World2!",
+      "readingtime": 9
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://picsum.photos/200",
+      "title": "Heloo World2!",
+      "readingtime": 9
+    }
+  ]
+}

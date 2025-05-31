@@ -1,0 +1,15 @@
+.homeWrapper {
+
+}
+
+.homeWrapper h2 {
+  text-align: right;
+  margin-right: 10px;
+}
+
+.articleWrapper {
+  display: grid;
+  gap: 5px;
+  grid-template-columns: auto auto auto auto;
+  width: 100%;
+}
